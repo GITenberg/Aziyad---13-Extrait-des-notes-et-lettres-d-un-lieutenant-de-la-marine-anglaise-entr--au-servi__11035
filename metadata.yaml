@@ -1,0 +1,32 @@
+_repo: Aziyad---13-Extrait-des-notes-et-lettres-d-un-lieutenant-de-la-marine-anglaise-entr--au-servi__11035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Julien
+    - Viaud, Louis Marie Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11035'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Istanbul (Turkey) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: "Aziyadé\r\nExtrait des notes et lettres d'un lieutenant de la marine anglaise\
+  \ entré au  service de la Turquie le 10 mai 1876 tué dans les murs de Kars, le 27\
+  \ octobre  1877."
+url: http://www.gutenberg.org/ebooks/11035
